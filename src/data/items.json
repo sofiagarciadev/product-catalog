@@ -1,0 +1,22 @@
+[
+  {
+    "description": "Esto es una descripcion de prueba que estamos escribiendo para no poner un lorem ipsum porque eso ya es muy mainstream, Esto es una descripcion de prueba que estamos escribiendo para no poner un lorem ipsum porque eso ya es muy mainstream, Esto es una descripcion de prueba que estamos escribiendo para no poner un lorem ipsum porque eso ya es muy mainstream",
+    "price": 25.33,
+    "image": "https://i.picsum.photos/id/80/536/354.jpg?hmac=X6HCGu1azlE2wxqMiaGaSIjLYAoZgXXkl_g7h3Vn16k"
+  },
+  {
+    "description": "Test 2",
+    "price": 99.99,
+    "image": "https://picsum.photos/536/354"
+  },
+  {
+    "description": "Esto es un tercer item",
+    "price": 13299.99,
+    "image": "https://picsum.photos/536/355"
+  },
+  {
+    "description": "Esto es un tercer item",
+    "price": 5,
+    "image": "https://picsum.photos/536/353"
+  }
+]

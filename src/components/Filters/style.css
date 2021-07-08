@@ -1,0 +1,32 @@
+ul {
+  margin: 0;
+  padding: 0;
+}
+
+ul li {
+  margin: 0;
+  padding: 0;
+}
+
+.filter-container {
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.item {
+  margin: 0 20px;
+  border-bottom: 2px solid transparent;
+}
+
+.item.active {
+  border-bottom: 2px solid var(--chakra-colors-blue-400);
+}
+
+.item:hover {
+  border-bottom: 2px solid var(--chakra-colors-gray-400);
+  cursor: pointer;
+}
+
+.item:first-of-type {
+  margin-left: 0;
+}
